@@ -12,6 +12,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/43953
     - http://www.gutenberg.org/ebooks/author/1599
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14096#With-Links-of-Steel--Or-The-Peril-of-the-Unknown
 gutenberg_issued: '2004-11-19'
 gutenberg_type: Text
 identifiers:
