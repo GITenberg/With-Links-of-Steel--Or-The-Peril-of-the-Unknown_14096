@@ -1,0 +1,29 @@
+_repo: With-Links-of-Steel--Or-The-Peril-of-the-Unknown_14096
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 14096-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Carter, Nicholas (House name)
+    gutenberg_agent_id: '4161'
+    url: http://www.gutenberg.org/2009/agents/4161
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/43953
+    - http://www.gutenberg.org/ebooks/author/1599
+description: ''
+gutenberg_issued: '2004-11-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14096'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Popular literature'
+- !lcc 'PS'
+- !lcsh 'Dime novels'
+title: With Links of Steel; Or, The Peril of the Unknown
+url: http://www.gutenberg.org/ebooks/14096
